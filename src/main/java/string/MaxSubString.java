@@ -1,4 +1,4 @@
-package main.java;
+package main.java.string;
 
 /**
  * 求最大字符串子串长度，及子串

@@ -1,4 +1,4 @@
-package main.java;
+package main.java.arr;
 
 /**
  * 查找有序数组中的值，如果有返回索引，如果没有插入该值并返回索引
